@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Actualizar = () => {
+const Ventas = () => {
     return (
         <div>
-          actualizar  
+          <h1>Ventas</h1>
         </div>
     )
 }
 
-export default Actualizar;
+export default Ventas;
